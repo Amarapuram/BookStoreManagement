@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/BookService
+  logging:
+    level:
+      org.springframework.web: DEBUG
